@@ -1,0 +1,4 @@
+interface:
+  display_name: "引用原文核對與標註"
+  short_description: "核對引用與來源原文，依支持、部分支持及推論分色標註 PDF"
+  default_prompt: "請使用 $citation-source-highlighting 核對我的論文引用，在來源 PDF 標出原文，並依支持、部分支持及推論分色。"

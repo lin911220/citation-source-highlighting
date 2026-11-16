@@ -1,0 +1,30 @@
+# Python runtime and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Private manuscripts, source PDFs, evidence and generated output
+*.pdf
+*.tex
+*.bib
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+citation_evidence.json
+annotated_papers/
+reference_pdfs/
+參考論文/
+
+# Local credentials and editor state
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
